@@ -1,0 +1,17 @@
+D:\is21\anketa\bin\Debug\anketa.exe.config
+D:\is21\anketa\bin\Debug\anketa.exe
+D:\is21\anketa\bin\Debug\anketa.pdb
+D:\is21\anketa\bin\Debug\anketa.xml
+D:\is21\anketa\obj\Debug\anketa.vbproj.AssemblyReference.cache
+D:\is21\anketa\obj\Debug\MainWindow.g.vb
+D:\is21\anketa\obj\Debug\Application.g.vb
+D:\is21\anketa\obj\Debug\anketa_MarkupCompile.cache
+D:\is21\anketa\obj\Debug\anketa_MarkupCompile.lref
+D:\is21\anketa\obj\Debug\MainWindow.baml
+D:\is21\anketa\obj\Debug\anketa.g.resources
+D:\is21\anketa\obj\Debug\anketa.Resources.resources
+D:\is21\anketa\obj\Debug\anketa.vbproj.GenerateResource.cache
+D:\is21\anketa\obj\Debug\anketa.vbproj.CoreCompileInputs.cache
+D:\is21\anketa\obj\Debug\anketa.exe
+D:\is21\anketa\obj\Debug\anketa.xml
+D:\is21\anketa\obj\Debug\anketa.pdb
